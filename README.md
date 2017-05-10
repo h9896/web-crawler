@@ -1,3 +1,3 @@
 # web-crawler
-web-crawler exercise \n
- By Edison Song
+web-crawler exercise
+By Edison Song
