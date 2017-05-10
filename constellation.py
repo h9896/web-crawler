@@ -9,6 +9,7 @@ from urllib import request
 from bs4 import BeautifulSoup
 
 #Daily Horoscope
+#Data from 'http://astro.click108.com.tw/daily_10.php?iAcDay=2017-05-11&iAstro=10'
 date_t = strftime("%Y%m%d")
 date = date_t[0:4] + '-' + date_t[4:6] + '-' + date_t[6:8]
 constellation = [
